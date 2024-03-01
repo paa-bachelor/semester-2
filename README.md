@@ -3,7 +3,7 @@ In this repository we will store files and assignments connected to the 2nd seme
 
 Courses:
   1. [Sterrenstelsels](sterrenstelsels)
-  2. [Experimenteren in de fysica en sterrenkunde II](semester-1/experimenteren-2)
+  2. [Experimenteren in de fysica en sterrenkunde II](experimenteren-2)
   3. [Relativity and Electromagnetism](relativity-and-electromagnetism)
   4. [Thermische Fysica](thermische-fysica)
   5. [Materiaalfysica](materiaalfysica)
