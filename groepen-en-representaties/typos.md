@@ -1,4 +1,4 @@
-A document that contains encountered typo's in the corresponding courses.
+A document that contains encountered typo's in the corresponding course.
 
 Groepen en Representaties
 ---
