@@ -17,3 +17,5 @@ p.16 "there is no guarentee(guarantee) that such a map..."
 **Chapter 3 - Representation Theory**
 
 p.31 "V is the* called a similarity transformation"
+
+p.36 "we identify the basis vectors with columns(column) vectors as follows:"
