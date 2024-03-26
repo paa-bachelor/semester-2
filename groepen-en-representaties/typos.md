@@ -19,3 +19,7 @@ p.16 "there is no guarentee(guarantee) that such a map..."
 p.31 "V is the* called a similarity transformation"
 
 p.36 "we identify the basis vectors with columns(column) vectors as follows:"
+
+**Chapter 4 - Rotation groups SU(2) and SO(3)**
+
+p.61 "...which turns out to be isomorphic for both group(s):..."
