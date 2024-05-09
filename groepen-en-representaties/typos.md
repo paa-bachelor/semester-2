@@ -12,6 +12,8 @@ p.5 "primary goal it(is) to motivate..."
 
 **Chapter 2 - Basics**
 
+p.13 "A group is Abelian iff(if) the multiplication"
+
 p.16 "there is no guarentee(guarantee) that such a map..."
 
 **Chapter 3 - Representation Theory**
